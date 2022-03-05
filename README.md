@@ -1,2 +1,1 @@
-# Myself
-Some things about myself :)
+# junk
